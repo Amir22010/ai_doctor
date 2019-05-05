@@ -26,11 +26,11 @@
 
 - python 3.6
 - tensorflow 1.5
--opencv
--keras
--flask
--mysql
--stripe
+- opencv
+- keras
+- flask
+- mysql
+- stripe
 
 # Screenshots of Pages
 
