@@ -61,7 +61,7 @@ Future TODOS
 
 - Increase Model Performance
 - Add more AI model related to medical 
-- Add Model Version Control
+- Add Model Version Control System
 
 
 
