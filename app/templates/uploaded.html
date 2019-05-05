@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+
+{% block head %}
+    {{ super() }}
+{% endblock %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<body>
+	<p><strong>Uploaded Image</strong></p>
+	<img src="{{user_image}}" alt="test">
+					<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Results</h2>
+<table>
+  <tr>
+    <th>Disease</th>
+  </tr>
+  <tr>
+    <td>{{predictions}}</td>
+  </tr>
+</table>
+
+</body>
+</html>
+    <title>Index</title>
+</head>
+<body>
+</body>
+</html>
+{% endblock %}
