@@ -18,7 +18,8 @@
 
 # Model Performance
 
-- Inception V3 Transfer Learning Approach
+- Base Model - Inception V3 
+- CNN Based Neural Network Transfer Learning Approach
 - Validation Accuracy - 85%
 
 
