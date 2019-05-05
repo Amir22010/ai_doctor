@@ -14,3 +14,11 @@
 # Adding Stripe Payment Functionality
 - use you stripe secret key and public key for payment
 - place your stripe api keys in index.html and user.py file
+
+
+# Model Performance
+
+- Inception V3 Transfer Learning Approach
+- Validation Accuracy - 85%
+
+
