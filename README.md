@@ -22,4 +22,18 @@
 - CNN Based Neural Network Transfer Learning Approach
 - Validation Accuracy - 85%
 
+# Tech Stack
+
+- python 3.6
+- tensorflow 1.5
+-opencv
+-keras
+-flask
+-mysql
+-stripe
+
+# Screenshots of Pages
+
+- Signin Page
+
 
