@@ -39,4 +39,30 @@
 ![Signin](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/signin.JPG)
 ![Signin1](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/signin1.JPG)
 
+- Signup Page
+
+![Signin](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/signup.JPG)
+
+- Payment Page
+
+![Payment](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/payment.JPG)
+
+- Paid Service Page
+
+![Paid](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/paidservice.JPG)
+![Paid1](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/paidservice1.JPG)
+
+- Prediction Page
+
+![Prediction](https://raw.githubusercontent.com/Amir22010/ai_doctor/master/screenshots/prediction.JPG)
+
+
+Future TODOS
+
+- Increase Model Performance
+- Add more AI model related to medical 
+- Add Model Version Control
+
+
+
 
