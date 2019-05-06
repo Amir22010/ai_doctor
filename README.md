@@ -62,7 +62,7 @@ Future TODOS
 - Increase Model Performance
 - Add more AI model related to medical 
 - Add Model Version Control System
-
+- Will Use of Stanford CheXpert, a large dataset that contains 224,316 chest radiographs of 65,240 patients. A labeller to automatically detect the presence of 14 observations in radiology reports, capturing uncertainties inherent in radiograph interpretation.
 
 
 
